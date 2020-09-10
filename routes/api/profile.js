@@ -174,7 +174,7 @@ router.put(
             check('company', 'Company is required')
                 .not()
                 .isEmpty(),
-            check('From', 'From date is required')
+            check('from', 'From date is required')
                 .not()
                 .isEmpty()
         ]
