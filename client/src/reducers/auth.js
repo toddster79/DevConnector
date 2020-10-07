@@ -1,4 +1,4 @@
-const { REGISTER_SUCCESS, REGISTER_FAIL } = require("../actions/types")
+//const { REGISTER_SUCCESS, REGISTER_FAIL } = require("../actions/types")
 
 import {
     REGISTER_SUCCESS,
