@@ -145,10 +145,10 @@ const CreateProfile = props => {
       </form>
         </Fragment>
     )
-}
+};
 
 CreateProfile.propTypes = {
 
-}
+};
 
-export default CreateProfile
+export default CreateProfile;
